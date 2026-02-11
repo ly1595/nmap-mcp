@@ -10,7 +10,7 @@ LOG_LEVEL = os.getenv('FASTMCP_LOG_LEVEL', 'WARNING')
 NMAP_BINARY = os.getenv('NMAP_BINARY', 'nmap')
 
 # Default scan timeout in seconds
-DEFAULT_SCAN_TIMEOUT = int(os.getenv('NMAP_SCAN_TIMEOUT', '300'))
+DEFAULT_SCAN_TIMEOUT = int(os.getenv('NMAP_SCAN_TIMEOUT', '600'))
 
 # Maximum allowed targets per scan (safety limit)
 MAX_TARGETS = int(os.getenv('NMAP_MAX_TARGETS', '256'))

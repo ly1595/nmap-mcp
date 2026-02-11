@@ -9,7 +9,7 @@ startCommand:
         description: "Path to the nmap binary"
       NMAP_SCAN_TIMEOUT:
         type: number
-        default: 300
+        default: 600
         description: "Maximum timeout in seconds for a single scan"
       NMAP_MAX_TARGETS:
         type: number
@@ -30,7 +30,7 @@ startCommand:
       args: [
         "run", "--rm", "-i",
         "-e", `NMAP_BINARY=${config.NMAP_BINARY ?? "nmap"}`,
-        "-e", `NMAP_SCAN_TIMEOUT=${config.NMAP_SCAN_TIMEOUT ?? 300}`,
+        "-e", `NMAP_SCAN_TIMEOUT=${config.NMAP_SCAN_TIMEOUT ?? 600}`,
         "-e", `NMAP_MAX_TARGETS=${config.NMAP_MAX_TARGETS ?? 256}`,
         "-e", `FASTMCP_LOG_LEVEL=${config.FASTMCP_LOG_LEVEL ?? "WARNING"}`,
         "nmap-mcp"

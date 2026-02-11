@@ -200,7 +200,7 @@ nmap-mcp is configured through environment variables:
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `NMAP_BINARY` | `nmap` | Path to the Nmap binary |
-| `NMAP_SCAN_TIMEOUT` | `300` | Maximum scan duration in seconds (max: 600) |
+| `NMAP_SCAN_TIMEOUT` | `600` | Maximum scan duration in seconds |
 | `NMAP_MAX_TARGETS` | `256` | Maximum number of target hosts per scan (max /24 subnet) |
 | `FASTMCP_LOG_LEVEL` | `WARNING` | Logging level (DEBUG, INFO, WARNING, ERROR) |
 
