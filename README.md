@@ -119,7 +119,9 @@ claude mcp add nmap-mcp -- docker run --rm -i nmap-mcp
 
 ### Cursor
 
-Add to your Cursor MCP settings (`.cursor/mcp.json`):
+[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en-US/install-mcp?name=nmap-mcp&config=eyJjb21tYW5kIjoiZG9ja2VyIHJ1biAtLXJtIC1pIG5tYXAtbWNwIn0%3D)
+
+Or add manually to your Cursor MCP settings (`.cursor/mcp.json`):
 
 ```json
 {
