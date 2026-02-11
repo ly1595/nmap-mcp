@@ -1,0 +1,13 @@
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+.ruff_cache
+tests
+.git
+.gitignore
+*.md
+!README.md
+.DS_Store
+.env

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-01-01/server.schema.json",
+  "name": "nmap-mcp",
+  "title": "Nmap MCP Server",
+  "description": "AI-powered network security scanning with Nmap. Port scanning, service detection, OS fingerprinting, and vulnerability scanning for AI agents. By Vorota AI.",
+  "website": "https://github.com/vorotaai/nmap-mcp",
+  "repository": {
+    "url": "https://github.com/vorotaai/nmap-mcp",
+    "source": "github"
+  },
+  "version_detail": {
+    "version": "0.1.0"
+  },
+  "packages": [
+    {
+      "registry_name": "Docker",
+      "name": "nmap-mcp",
+      "transport": ["stdio"]
+    }
+  ]
+}
