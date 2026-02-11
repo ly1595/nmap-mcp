@@ -2,7 +2,7 @@
 
 **nmap-mcp** is a production-ready [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that wraps Nmap, the industry-standard network scanner, to enable AI agents to perform automated network security assessments. Built by [Vorota AI](https://github.com/vorotaai), it provides 6 scanning tools, 9 scan types, and 6 timing templates -- making it the most comprehensive Nmap integration for AI-powered security workflows available today.
 
-[![License](https://img.shields.io/github/license/vorotaai/nmap-mcp)](https://github.com/vorotaai/nmap-mcp/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://github.com/vorotaai/nmap-mcp/blob/main/LICENSE)
 [![Python versions](https://img.shields.io/badge/python-3.10%2B-blue)](https://github.com/vorotaai/nmap-mcp)
 [![MCP Protocol](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://github.com/vorotaai/nmap-mcp#installation)
